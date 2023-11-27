@@ -24,7 +24,7 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=PK2615&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->### Hi there 👋
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <!--
 **PK2615/PK2615** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
